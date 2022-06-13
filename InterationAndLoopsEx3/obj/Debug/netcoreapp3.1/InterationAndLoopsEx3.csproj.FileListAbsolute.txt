@@ -1,0 +1,14 @@
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\bin\Debug\netcoreapp3.1\InterationAndLoopsEx3.exe
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\bin\Debug\netcoreapp3.1\InterationAndLoopsEx3.deps.json
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\bin\Debug\netcoreapp3.1\InterationAndLoopsEx3.runtimeconfig.json
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\bin\Debug\netcoreapp3.1\InterationAndLoopsEx3.runtimeconfig.dev.json
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\bin\Debug\netcoreapp3.1\InterationAndLoopsEx3.dll
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\bin\Debug\netcoreapp3.1\InterationAndLoopsEx3.pdb
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\obj\Debug\netcoreapp3.1\InterationAndLoopsEx3.csproj.AssemblyReference.cache
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\obj\Debug\netcoreapp3.1\InterationAndLoopsEx3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\obj\Debug\netcoreapp3.1\InterationAndLoopsEx3.AssemblyInfoInputs.cache
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\obj\Debug\netcoreapp3.1\InterationAndLoopsEx3.AssemblyInfo.cs
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\obj\Debug\netcoreapp3.1\InterationAndLoopsEx3.csproj.CoreCompileInputs.cache
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\obj\Debug\netcoreapp3.1\InterationAndLoopsEx3.dll
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\obj\Debug\netcoreapp3.1\InterationAndLoopsEx3.pdb
+C:\Users\drewb\OneDrive\repos\InterationAndLoopsEx3\InterationAndLoopsEx3\obj\Debug\netcoreapp3.1\InterationAndLoopsEx3.genruntimeconfig.cache
